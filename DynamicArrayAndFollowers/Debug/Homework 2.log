@@ -1,0 +1,46 @@
+﻿  Array.cpp
+  main.cpp
+S:\Documents\School\UM-Flint\Winter 23\CSC 375\HW solns\Homework 2\Twitter.cpp(44,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+S:\Documents\School\UM-Flint\Winter 23\CSC 375\HW solns\Homework 2\Twitter.cpp(41): message : while compiling class template member function 'void Twitter<std::string>::RemoveFollower(T &)'
+          with
+          [
+              T=std::string
+          ]
+S:\Documents\School\UM-Flint\Winter 23\CSC 375\HW solns\Homework 2\main.cpp(107): message : see reference to function template instantiation 'void Twitter<std::string>::RemoveFollower(T &)' being compiled
+          with
+          [
+              T=std::string
+          ]
+S:\Documents\School\UM-Flint\Winter 23\CSC 375\HW solns\Homework 2\main.cpp(49): message : see reference to class template instantiation 'Twitter<std::string>' being compiled
+S:\Documents\School\UM-Flint\Winter 23\CSC 375\HW solns\Homework 2\Twitter.cpp(90,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+S:\Documents\School\UM-Flint\Winter 23\CSC 375\HW solns\Homework 2\Twitter.cpp(88): message : while compiling class template member function 'void Twitter<std::string>::PrintFollower(void)'
+S:\Documents\School\UM-Flint\Winter 23\CSC 375\HW solns\Homework 2\main.cpp(110): message : see reference to function template instantiation 'void Twitter<std::string>::PrintFollower(void)' being compiled
+S:\Documents\School\UM-Flint\Winter 23\CSC 375\HW solns\Homework 2\Array.h(37,25): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+S:\Documents\School\UM-Flint\Winter 23\CSC 375\HW solns\Homework 2\Array.h(34): message : while compiling class template member function 'Array<T>::Array(int)'
+          with
+          [
+              T=std::string
+          ]
+S:\Documents\School\UM-Flint\Winter 23\CSC 375\HW solns\Homework 2\Twitter.cpp(8): message : see reference to function template instantiation 'Array<T>::Array(int)' being compiled
+          with
+          [
+              T=std::string
+          ]
+S:\Documents\School\UM-Flint\Winter 23\CSC 375\HW solns\Homework 2\Twitter.cpp(8): message : while compiling class template member function 'Twitter<std::string>::Twitter(void)'
+S:\Documents\School\UM-Flint\Winter 23\CSC 375\HW solns\Homework 2\main.cpp(49): message : see reference to function template instantiation 'Twitter<std::string>::Twitter(void)' being compiled
+S:\Documents\School\UM-Flint\Winter 23\CSC 375\HW solns\Homework 2\Array.h(49,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+S:\Documents\School\UM-Flint\Winter 23\CSC 375\HW solns\Homework 2\Array.h(48): message : while compiling class template member function 'void Array<T>::changeSize(double)'
+          with
+          [
+              T=std::string
+          ]
+S:\Documents\School\UM-Flint\Winter 23\CSC 375\HW solns\Homework 2\Twitter.cpp(26): message : see reference to function template instantiation 'void Array<T>::changeSize(double)' being compiled
+          with
+          [
+              T=std::string
+          ]
+S:\Documents\School\UM-Flint\Winter 23\CSC 375\HW solns\Homework 2\Array.h(59,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+S:\Documents\School\UM-Flint\Winter 23\CSC 375\HW solns\Homework 2\Array.h(62,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+  Twitter.cpp
+  Generating Code...
+  Homework 2.vcxproj -> S:\Documents\School\UM-Flint\Winter 23\CSC 375\HW solns\Homework 2\Debug\Homework 2.exe
